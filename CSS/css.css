@@ -1,0 +1,44 @@
+#para1{
+    color: palevioletred;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#para2{
+    color: brown;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: dotted;
+    border-color:white;
+    padding: 0.25%;
+    height: fit-content;
+    width: fit-content;
+    line-height: 2;
+    margin-left: 300px;
+    margin-top: 55px;
+    border-width: 6px;
+}
+#para3{
+    color: black;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+#para4{
+    color: brown;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+body{background-image: url(bg.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;}
+img {float: left;
+    margin-right: 25px;
+    margin-left: 25px;}
+video{float: right;
+    margin-right: 300px;
+    margin-top: 55px;
+}
+audio{ float: right;}
